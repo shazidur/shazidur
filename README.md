@@ -1,5 +1,24 @@
-### Hi there 👋
+### Hi there this is ShaziD  👋
 
+All over the journey, it led me to achieve professional skills, understanding job requirements & responsibilities, teamwork, cope up with new and most Trend Technologies.
+
+⚡ **Experience working in an agile development environment Preferred Qualifications:**
+
+-  JavaScript (ES6)
+-  TypeScript
+-  ReactJS
+-  JSX(Ant Design), HTML, CSS
+-  RESTful API's
+-  GraphQL
+-  ExpressJS
+-  AWS
+-  GIT/BitBucket 
+
+**Product Area:** _B2B, B2C,  Business Automation, High Volume Data Analysis API Base Application, E-commerce._
+**Design Tools:**  _Adobe XD, Adobe Photoshop, and others._ 
+ 
+
+- 🌱 I’m currently learning more optimization front-end API, Python and DevOps with Azure. 
 <!--
 **shazidur/shazidur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
