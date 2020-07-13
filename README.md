@@ -18,7 +18,7 @@ All over the journey, it led me to achieve professional skills, understanding jo
 **Design Tools:**  _Adobe XD, Adobe Photoshop, and others._ 
  
 
-- 🌱 I’m currently learning more optimization front-end API, Python and DevOps with Azure. 
+🌱 I’m currently learning more about Front-End (UI optimization), Python and Cloud engineering with Azure and AWS. 
 <!--
 **shazidur/shazidur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
